@@ -16,6 +16,7 @@
 [![Docker Pulls](https://img.shields.io/docker/pulls/amirpourmand/al-folio?color=blueviolet)](https://hub.docker.com/r/amirpourmand/al-folio)
 
 [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/Dmesa22/dmesa2.github.io/badge)](https://securityscorecards.dev/viewer/?uri=github.com/Dmesa22/dmesa2.github.io)
+[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/5621/badge)](https://www.bestpractices.dev/projects/5621)
 
 [![GitHub release](https://img.shields.io/github/v/release/alshedivat/al-folio)](https://github.com/alshedivat/al-folio/releases/latest)
 [![GitHub license](https://img.shields.io/github/license/alshedivat/al-folio?color=blue)](https://github.com/alshedivat/al-folio/blob/master/LICENSE)
