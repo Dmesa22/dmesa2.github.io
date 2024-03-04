@@ -15,7 +15,7 @@
 [![Docker Image Size](https://img.shields.io/docker/image-size/amirpourmand/al-folio?sort=date&label=docker%20image%20size&color=blueviolet)](https://hub.docker.com/r/amirpourmand/al-folio)
 [![Docker Pulls](https://img.shields.io/docker/pulls/amirpourmand/al-folio?color=blueviolet)](https://hub.docker.com/r/amirpourmand/al-folio)
 
-[![OpenSSF Scorecard](htt‌ps://api.securityscorecards.dev/projects/github.com/{dmesa22}/{openssf best practices}/badge)](htt‌ps://securityscorecards.dev/viewer/?uri=github.com/{dmesa22}/{scorecard})
+[![OpenSSF Scorecard](htt‌ps://api.securityscorecards.dev/projects/github.com/{dmesa22}/{openssfbestpractices}/badge)](htt‌ps://securityscorecards.dev/viewer/?uri=github.com/{dmesa22}/{scorecard})
 
 [![GitHub release](https://img.shields.io/github/v/release/alshedivat/al-folio)](https://github.com/alshedivat/al-folio/releases/latest)
 [![GitHub license](https://img.shields.io/github/license/alshedivat/al-folio?color=blue)](https://github.com/alshedivat/al-folio/blob/master/LICENSE)
